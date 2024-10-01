@@ -1,0 +1,1 @@
+﻿dotnet .\DarkRift.Server.Console.dll
